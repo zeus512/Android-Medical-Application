@@ -1,0 +1,7 @@
+#Sun Nov 19 17:09:49 IST 2017
+base.0=/root/StudioProjects/Medicalpro/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_5f3994b7932087b9132ed33532baf7f751197954
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/root/StudioProjects/Medicalpro/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_477e0715e39ce28fba6552ae4b50d783fc94da0d/classes.dex
+base.1=/root/StudioProjects/Medicalpro/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_477e0715e39ce28fba6552ae4b50d783fc94da0d
+file.0=/root/StudioProjects/Medicalpro/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_5f3994b7932087b9132ed33532baf7f751197954/classes.dex

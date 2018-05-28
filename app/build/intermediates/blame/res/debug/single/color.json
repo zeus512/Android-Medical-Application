@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/root/StudioProjects/Medicalpro/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_dark.xml",
+        "source": "/root/.android/build-cache/355e68557d168c1405bd40c6129a264ed539be34/output/res/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/root/StudioProjects/Medicalpro/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_tint.xml",
+        "source": "/root/.android/build-cache/355e68557d168c1405bd40c6129a264ed539be34/output/res/color/common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "/root/StudioProjects/Medicalpro/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_light.xml",
+        "source": "/root/.android/build-cache/355e68557d168c1405bd40c6129a264ed539be34/output/res/color/common_google_signin_btn_text_light.xml"
+    }
+]

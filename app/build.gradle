@@ -1,0 +1,32 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 25
+    buildToolsVersion "25.0.2"
+
+    defaultConfig {
+        applicationId "com.srinidhi.ecm"
+        minSdkVersion 17
+        targetSdkVersion 25
+        manifestPlaceholders = [manifestApplicationId          : "${applicationId}",
+                                onesignal_app_id               : "23f30f3f-47a4-4d23-8c2a-96200e3814bc",
+                                onesignal_google_project_number: "REMOTE"]
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+    dependencies {
+        compile fileTree(dir: 'libs', include: ['*.jar'])
+        androidTestCompile('com.android.support.test.espresso:espresso-core:2.2.2', {
+            exclude group: 'com.android.support', module: 'support-annotations'
+        })
+        compile 'com.onesignal:OneSignal:3.+@aar'
+        compile 'com.google.android.gms:play-services-gcm:10.2.4'
+        compile 'com.google.android.gms:play-services-location:10.2.4'
+        testCompile 'junit:junit:4.12'
+    }
+}

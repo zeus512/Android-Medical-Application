@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/opt/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/root/StudioProjects/Medicalpro/app/build/intermediates/pre-dexed/debug/support-annotations-24.0.0_12fcc08fd0e6f888bc52d2907b60feab03c58eca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/08ce4394b4c4666d2abf595c4bbecc0748d90906/output/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/root/StudioProjects/Medicalpro/app/build/intermediates/pre-dexed/debug/internal_impl-24.0.0_ce99497aa98efa1fac74cfc8390f4d2d402b9399.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/StudioProjects/Medicalpro/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/root/StudioProjects/Medicalpro/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_477e0715e39ce28fba6552ae4b50d783fc94da0d/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/08ce4394b4c4666d2abf595c4bbecc0748d90906/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/root/StudioProjects/Medicalpro/app/build/intermediates/pre-dexed/debug/classes_2ce4b7032b43ce2cfb259e77d4212db0736a5a45.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/StudioProjects/Medicalpro/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3866ba1334e144af89ff04627518238d493a3cd1">
+        <dex dex="/root/StudioProjects/Medicalpro/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_5f3994b7932087b9132ed33532baf7f751197954/classes.dex" />
+    </item>
+
+</items>

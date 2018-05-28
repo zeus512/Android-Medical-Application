@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/root/StudioProjects/Medicalpro/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_os_notification_fallback_white_24dp.png",
+        "source": "/root/.android/build-cache/d9922ae259e6ae057eae9f7ca4c3a0545fc09f5a/output/res/drawable-mdpi-v4/ic_os_notification_fallback_white_24dp.png"
+    },
+    {
+        "merged": "/root/StudioProjects/Medicalpro/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png",
+        "source": "/root/.android/build-cache/355e68557d168c1405bd40c6129a264ed539be34/output/res/drawable-mdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "/root/StudioProjects/Medicalpro/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png",
+        "source": "/root/.android/build-cache/355e68557d168c1405bd40c6129a264ed539be34/output/res/drawable-mdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/root/StudioProjects/Medicalpro/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/googleg_disabled_color_18.png",
+        "source": "/root/.android/build-cache/355e68557d168c1405bd40c6129a264ed539be34/output/res/drawable-mdpi-v4/googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "/root/StudioProjects/Medicalpro/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_text_light_normal_background.9.png",
+        "source": "/root/.android/build-cache/355e68557d168c1405bd40c6129a264ed539be34/output/res/drawable-mdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "/root/StudioProjects/Medicalpro/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png",
+        "source": "/root/.android/build-cache/355e68557d168c1405bd40c6129a264ed539be34/output/res/drawable-mdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/root/StudioProjects/Medicalpro/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/googleg_standard_color_18.png",
+        "source": "/root/.android/build-cache/355e68557d168c1405bd40c6129a264ed539be34/output/res/drawable-mdpi-v4/googleg_standard_color_18.png"
+    }
+]

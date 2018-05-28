@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/root/StudioProjects/Medicalpro/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/root/StudioProjects/Medicalpro/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/root/StudioProjects/Medicalpro/app/build/intermediates/res/merged/debug/layout/tablayout.xml",
+        "source": "/root/StudioProjects/Medicalpro/app/src/main/res/layout/tablayout.xml"
+    },
+    {
+        "merged": "/root/StudioProjects/Medicalpro/app/build/intermediates/res/merged/debug/layout/information.xml",
+        "source": "/root/StudioProjects/Medicalpro/app/src/main/res/layout/information.xml"
+    },
+    {
+        "merged": "/root/StudioProjects/Medicalpro/app/build/intermediates/res/merged/debug/layout/symptoms.xml",
+        "source": "/root/StudioProjects/Medicalpro/app/src/main/res/layout/symptoms.xml"
+    },
+    {
+        "merged": "/root/StudioProjects/Medicalpro/app/build/intermediates/res/merged/debug/layout/onesignal_bgimage_notif_layout.xml",
+        "source": "/root/.android/build-cache/d9922ae259e6ae057eae9f7ca4c3a0545fc09f5a/output/res/layout/onesignal_bgimage_notif_layout.xml"
+    }
+]
